@@ -23,12 +23,18 @@ Fully functional Django App that looks exactly like real Twitter.
 ⚡️ Can view others as well as owns twirrer profiles.\
 ⚡️ Follow or Unfollow other users.\
 ⚡️ Login using SAWO APIs
+⚡️ Edit Profile
+⚡️ Add Profile Picture
+⚡️ Create new account
 
 ----
 
 ## Snapshots:
 
-<p align="center"><img src="TwitterDemo.png" width="900"></p>
+<p align="center">Home<img src="twibberdemo.png" width="900"></p>
+<p align="center">Login<img src="login.png" width="900"></p>
+<p align="center">Register<img src="register.png" width="900"></p>
+<p align="center">Followers<img src="follows.png" width="900"></p>
 
 
 ----
@@ -36,6 +42,7 @@ Fully functional Django App that looks exactly like real Twitter.
 ## Installation 📦
 
 >pip install -r requirements.txt
+>Perform migrations with: python manage.py makemigration and then python manage.py migrate.
 
 #### Clone
 
