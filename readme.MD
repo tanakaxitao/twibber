@@ -47,6 +47,7 @@ Fully functional Django App that looks exactly like real Twitter.
 #### Clone
 
 - Clone this repo to your local machine.
+> git clone https://github.com/tanakaxitao/twibber.git
 
 #### Run server locally
 
