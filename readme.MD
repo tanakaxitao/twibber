@@ -20,7 +20,7 @@ Fully functional Django App that looks exactly like real Twitter.
 ⚡️ Create new tweets.\
 ⚡️ Modify previous tweets.\
 ⚡️ Delete tweets with one click.\
-⚡️ Can view others as well as owns twirrer profiles.\
+⚡️ Can view others as well as owns twibber profiles.\
 ⚡️ Follow or Unfollow other users.\
 ⚡️ Login using SAWO APIs
 ⚡️ Edit Profile
